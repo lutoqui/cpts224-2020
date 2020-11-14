@@ -1,0 +1,3 @@
+Major: Computer Science, BS
+Hobby: video games
+pets: 2 dogs
