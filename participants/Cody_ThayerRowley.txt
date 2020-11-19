@@ -1,0 +1,6 @@
+Name: Cody Thayer-Rowley
+	Age: 22
+	Degree: Computer Science (BA)
+Pets: 1 cat
+	Name: Artemis
+	Age: 1 Year
