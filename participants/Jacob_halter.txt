@@ -1,0 +1,4 @@
+Jacob Halter
+My name is Jacob Halter, I am a computer science student at WSU-Tri cities
+Most of my programming experience is in c++ but I'm excited to learn more
+languages as I go.
