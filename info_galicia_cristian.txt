@@ -1,0 +1,6 @@
+Name: Cristian Galicia
+Major: Computer Science BA
+Birthplace: San Jose, CA, USA
+Current Location: Kennewick, WA, USA
+number of pets: two
+pet type: cat
